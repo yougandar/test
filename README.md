@@ -8,7 +8,7 @@ In this section we will be comparing the cost for all the solution provided in t
 The below table explain the distinctive features available across solution types.
 
 | **Resource Name**          | **Parameter**     | **Basic**         | **Standard**          | **Premium**
-| -------------          | -------------      | -------------        | -------------
+| -------------              | -------------     | -------------     | -------------         | -------------
 | App Service Plan	      | SKU                     | F1               | S1	              | S1
 |              | Cores      | Shared Cores	     | 1 core	        | 1 core
 |              | RAM	    | 1GB	     | 1.75GB	      | 1.75GB
